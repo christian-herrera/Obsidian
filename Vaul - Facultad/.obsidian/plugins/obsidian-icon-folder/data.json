@@ -1,0 +1,30 @@
+{
+  "settings": {
+    "migrated": true,
+    "iconPacksPath": ".obsidian/plugins/obsidian-icon-folder/icons",
+    "fontSize": 16,
+    "emojiStyle": "none",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "FasCalendarDays",
+      "FasGraduationCap",
+      "FasBrain",
+      "FasNoteSticky",
+      "FasDatabase"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false
+  },
+  "000 - Plantillas": "FasDatabase",
+  "010 - Notas": "FasNoteSticky",
+  "020 - Ideas": "FasBrain",
+  "100 - Tema a Desarrollar": "FasGraduationCap",
+  "030 - Organizacion": "FasCalendarDays"
+}

@@ -1,0 +1,14 @@
+{
+  "showFrontmatter": true,
+  "promptDelete": false,
+  "livePreview": false,
+  "defaultViewMode": "preview",
+  "spellcheckLanguages": [
+    "es-419",
+    "es-AR"
+  ],
+  "showInlineTitle": true,
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current",
+  "attachmentFolderPath": "000 - Includes"
+}

@@ -1,0 +1,11 @@
+{
+  "accentColor": "",
+  "nativeMenus": false,
+  "cssTheme": "Things",
+  "baseFontSize": 13,
+  "showViewHeader": true,
+  "translucency": false,
+  "enabledCssSnippets": [
+    "CSS Personalizado - Obsidian"
+  ]
+}
